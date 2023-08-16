@@ -1,0 +1,59 @@
+.product{
+    width: 18rem;
+    margin-top:30px;
+    margin-left: 30px;
+    
+}
+.img{
+    margin-top:20px;
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+    
+}
+
+.price{
+   margin-bottom: 10px;
+   
+}
+
+
+.fix{
+margin-left: 250px;
+margin-top: 10px;
+
+}
+.gbtn{
+    color: white;
+    margin-right: 10px;
+height: 20px;
+width: 25px;
+}
+
+.rating{
+    display:flex;
+    padding: 0%;
+    margin:0%;
+    }
+.count{
+        margin-left: 5px;
+        padding: 0%;
+        margin-bottom: 5px;
+        margin-top: 3px;
+    }
+
+.card-change{
+    background-color: red;
+    border: red;
+}
+button.card-change:hover{
+    background-color: red;
+
+}
+.colorfix{
+    color: red;
+}
+.Heart-fix{
+    color: red;
+}
+

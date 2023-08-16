@@ -1,0 +1,28 @@
+.produc-img{
+  height: 70px;
+  width: 70px;
+}
+.cartItem{
+  margin-top: 50px;
+  border: 1px solid rgb(202, 196, 196);
+  border-radius: 10px;
+  box-shadow:  0 0 10px #5e5c5c;
+  padding: 20px;
+  width: 500px;
+  margin-left: 30px;
+  height: 210px;
+}
+.pro-dis{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.blug{
+  color: rgb(94, 155, 196);
+}
+.bk{
+  border: none;
+  box-shadow:  2px 2px 2px rgba(0,0,0,0.35);
+  background-color: aliceblue;
+}

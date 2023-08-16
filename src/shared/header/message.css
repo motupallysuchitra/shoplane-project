@@ -1,0 +1,16 @@
+.mess{
+    margin-top:40px;
+    font-size:25px ;
+    color: rgb(61, 134, 61);
+   
+}
+.sub{
+    font-size: 20px;
+    margin-left: 620px;
+    margin-top: 20px;
+    width: 150px;
+    padding-bottom: 5px;
+    border:none;
+    background-color: rgb(58, 104, 122);
+    color: white;
+}

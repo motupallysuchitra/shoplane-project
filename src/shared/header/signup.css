@@ -1,0 +1,30 @@
+.gcontainer{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    border: 1px solid rgb(201, 197, 197);
+    padding: 30px;
+    margin-top: 30px;
+    margin-left:450px;
+    gap:20px;
+    background-color: rgb(243, 242, 242);
+}
+
+h2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: rgb(70, 131, 201);
+}
+.but{
+    background-color:rgb(70, 131, 201);
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-size: 20px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+}

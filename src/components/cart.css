@@ -1,0 +1,29 @@
+.empty{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top:40px;
+    gap:20px;
+    font-size:30px;
+}
+.pro-card{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.order-sum{
+    border: 1px solid rgb(202, 196, 196);
+  border-radius: 10px;
+  box-shadow:  0 0 10px #5e5c5c;
+  height: 230px;
+  margin-top: 40px;
+  padding: 20px;
+  margin-right: 40px;
+}
+span{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}

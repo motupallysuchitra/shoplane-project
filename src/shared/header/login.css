@@ -1,0 +1,14 @@
+.login-container{
+    margin-top: 50px;
+    margin-left:500px ;
+    width:350px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(211, 209, 209);
+    padding: 40px;
+    
+}
+
+.head{
+    margin-bottom: 40px;
+ }
